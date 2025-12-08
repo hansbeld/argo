@@ -1,0 +1,11 @@
+{
+  "appName": "bundle-registry",
+  "userGivenName": "bundle-registry",
+  "destNamespace": "default",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": "apps/bundle-registry/overlays/workbench-ops",
+  "srcRepoURL": "https://github.com/hansbeld/argo.git",
+  "srcTargetRevision": "",
+  "labels": null,
+  "annotations": null
+}
